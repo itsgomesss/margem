@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+padding: 0;
+}
+body{
+ font-family: Arial,Hevetica,sans-serif
+ font-size:22px;
+}
+#cabecalho{
+	height: 150px;
+	background: #410254;
+	width: 100%;
+	margin: 0 auto;
+}
+#menu{
+
+	height: 550px;
+	width:350px;
+	background: #64acb5;
+	float:left;
+	margin: 60;
+	margin-top:10px;
+
+}
+ #principal{
+ 	height :550px;
+ 	width:350px;
+ 	 background:#498068;
+ 	 float:left;
+ 	 margin-top:10px;
+ 	  margin-left :10px;
+
+ 	 }
+
+ 	 #lado{
+ 	 	height: 550px;
+ 	 	width: 350px;
+ 	 	background: #f505b9;
+ 	 	float:left;
+ 	 	margin-top: 10px;
+ 	 	margin-left: 10px;
+ 	 }
+ 	 #rodape{
+ 	 	height: 150px;
+ 	 	background: #c9fa05;
+ 	 	clear:both;
+ 	 	width: 100%;
+ 	 	margin: 0 auto;
+
+
